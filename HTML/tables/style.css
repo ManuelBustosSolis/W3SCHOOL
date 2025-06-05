@@ -18,10 +18,10 @@ table, th, td {
     height: 80px;
 }
 
-
-
 td, th {
     border-radius: 10px;
     background-color: #96D4d4;
     border-color: green;
+    padding: 15px;
 }
+
