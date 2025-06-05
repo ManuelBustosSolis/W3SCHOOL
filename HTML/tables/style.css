@@ -1,0 +1,27 @@
+table {
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+}
+
+table, th, td {
+    text-align: center;  /* center the text in the table, rows and columns*/
+    border: 1px solid #fff;  /* set the border color to white */
+    border-collapse: collapse;  /* to avoid having double borders, set the CSS "border-collapse", this will make the border collaprse into a single border*/
+}
+
+.thCompany{ /*U can set the width to a single column or row */
+    width: 25%;
+}
+
+.trHeight{
+    height: 80px;
+}
+
+
+
+td, th {
+    border-radius: 10px;
+    background-color: #96D4d4;
+    border-color: green;
+}
